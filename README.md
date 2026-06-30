@@ -12,85 +12,62 @@ Senior Data Engineer • Azure • Snowflake • Python • Terraform
 </h3>
 
 <p align="center">
-Designing and building scalable cloud-native data platforms for modern analytics.
+Building reliable, scalable, and automated data platforms that turn raw data into actionable insight.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Data Engineer** passionate about designing modern cloud data platforms that enable organizations to transform raw data into trusted business insights.
+I'm a Senior Data Engineer focused on designing modern cloud-native data platforms with strong foundations in automation, governance, and performance.
 
-My experience includes building enterprise-scale ETL/ELT frameworks, metadata-driven pipelines, cloud data warehouses, automation solutions, and Infrastructure as Code using Microsoft Azure and Snowflake.
-
-I enjoy solving challenging data engineering problems with a focus on scalability, maintainability, automation, and performance.
+My work spans enterprise ETL/ELT pipelines, data warehousing, metadata-driven orchestration, and infrastructure automation using Azure, Snowflake, Python, and Terraform. I enjoy solving complex engineering challenges with a practical, business-first mindset.
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Do
 
-- ☁️ Azure Data Platforms
-- ❄️ Snowflake Data Warehouses
-- 🔄 Metadata-Driven ETL Frameworks
-- ⚙️ Infrastructure as Code
-- 🐍 Python Automation
-- 📊 Analytics & Reporting Solutions
-- 🔗 REST API Integrations
-- 🚀 CI/CD Pipelines
+- ☁️ Design and optimize Azure-based data platforms
+- ❄️ Build scalable Snowflake data models and pipelines
+- 🔄 Create metadata-driven ETL/ELT frameworks
+- ⚙️ Implement Infrastructure as Code with Terraform
+- 🐍 Develop Python automation and integration solutions
+- 📊 Deliver analytics-ready datasets and reporting enablement
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Core Skills
 
-### ☁️ Cloud
-
+### Cloud & Data Platforms
 - Microsoft Azure
 - Azure Data Factory
 - Azure Data Lake Storage
-- Azure Key Vault
-- Azure Functions
-- Azure DevOps
-
-### ❄️ Data Engineering
-
+- Azure Synapse
 - Snowflake
-- SQL
-- Apache Airflow
 - Databricks
-- PySpark
-- Data Warehousing
 
-### 🐍 Programming
-
-- Python
+### Data Engineering
 - SQL
-- Bash
+- PySpark
+- Apache Airflow
+- ETL/ELT Design
+- Data Warehousing
+- Data Modeling
 
-### ⚙️ DevOps
-
+### Engineering & Automation
+- Python
 - Terraform
 - GitHub Actions
 - Docker
-- Git
-
-### 📈 Analytics
-
-- Power BI
-- Azure Analysis Services
+- CI/CD
+- REST APIs
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Work
 
-| Repository | Description |
-|------------|-------------|
-| 🚀 Portfolio | Personal engineering portfolio showcasing projects and experience |
-| 🚀 Airflow Starter Kit | Production-ready Apache Airflow starter template |
-| 🚀 GitHub Actions Examples | CI/CD workflows and automation examples |
-| 🚀 Data Warehousing with Hive | Concepts and practical implementations for modern data warehousing |
-| 🚀 Tech Resume | Interactive technical resume and professional profile |
-
-> More enterprise-scale projects are currently under development and will be added soon.
+- Portfolio Website: [Visit portfolio](https://akash-pahilwan-portfolio.netlify.app/)
+- GitHub Profile: [Visit profile](https://github.com/akashpahilwan)
 
 ---
 
@@ -105,36 +82,17 @@ I enjoy solving challenging data engineering problems with a focus on scalabilit
 
 ---
 
-## 🎯 Areas of Interest
+## 🤝 Connect
 
-- Cloud Data Architecture
-- Data Engineering
-- Modern Data Platforms
-- Data Governance
-- Metadata Management
-- Infrastructure as Code
-- Enterprise Automation
-- Performance Optimization
+- 🌐 Portfolio: https://akash-pahilwan-portfolio.netlify.app/
+- � LinkedIn: https://www.linkedin.com/in/akashpahilwan
+- 📧 Email: akashpahilwan53@gmail.com
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Professional Summary
 
-> *(GitHub statistics and contribution graphs will be added here.)*
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn
-- 🌐 Portfolio Website
-- 📄 Resume Repository
-
----
-
-## 💡 Fun Fact
-
-> I enjoy designing enterprise data platforms just as much as building the automation that keeps them running efficiently.
+I’m passionate about building data platforms that are scalable, maintainable, and easy to operate. My goal is to combine strong engineering discipline with thoughtful architecture to help teams move faster and make better decisions with data.
 
 ---
 
