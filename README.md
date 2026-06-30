@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pahilwan</h1>
 
 <h3 align="center">
-Senior Data Engineer • Azure • Snowflake • Databricks • DataRewahouse • Python • Terraform
+Senior Data Engineer • Azure • Snowflake • Databricks • DataRewarehouse • Python • Terraform
 </h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ Building scalable, governed, and automation-first data platforms that turn compl
   <img src="https://img.shields.io/badge/Azure-Data%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/Databricks-Data%20Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/DataRewahouse-Data%20Platform-0078D4?style=for-the-badge&logo=data&logoColor=white" alt="DataRewahouse" />
+  <img src="https://img.shields.io/badge/DataRewarehouse-Data%20Platform-0078D4?style=for-the-badge&logo=data&logoColor=white" alt="DataRewarehouse" />
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -55,7 +55,7 @@ Building scalable, governed, and automation-first data platforms that turn compl
 
 I'm a Senior Data Engineer focused on designing modern, cloud-native data platforms that are reliable, scalable, and easy to operate.
 
-My work spans enterprise-grade ETL/ELT pipelines, data warehousing, orchestration, governance, and infrastructure automation across Azure, Snowflake, Databricks, DataRewahouse, Python, and Terraform. I enjoy solving complex engineering problems with a strong balance of technical depth, platform thinking, and business value.
+My work spans enterprise-grade ETL/ELT pipelines, data warehousing, orchestration, governance, and infrastructure automation across Azure, Snowflake, Databricks, DataRewarehouse, Python, and Terraform. I enjoy solving complex engineering problems with a strong balance of technical depth, platform thinking, and business value.
 
 ---
 
