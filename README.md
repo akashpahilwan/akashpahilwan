@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pahilwan</h1>
 
 <h3 align="center">
-Senior Data Engineer • Azure • Snowflake • Databricks • DataRewarehouse • Python • Terraform
+Senior Data Engineer • Azure • Snowflake • Databricks • Datawarehouse • Python • Terraform
 </h3>
 
 <p align="center">
